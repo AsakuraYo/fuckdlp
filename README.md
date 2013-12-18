@@ -1,10 +1,8 @@
 fuckdlp
 =======
-#### 1、把附件解压至C盘下，确保路径为：
+#### 1、把bin目录拷贝至C盘下，确保路径为：
     C:\fuckdlp  
     ┝bin
-    ┝etc
-    ┕src
 
 #### 2、双击etc下的RightClickCommand.reg文件，主要是增加两个右键命令
 
